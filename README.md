@@ -155,7 +155,7 @@
 <div class="faq-item">
     <h3>12. Can a student re-appear if they fail in Round 1?</h3>
     <div class="answer">
-        <p>No, the test is held once per year. You can try again next year.</p>
+        <p>No, the test is held twice per year. You can try again next time, just stay connected with Academeforge social profiles for updates.</p>
     </div>
 </div>
 <div class="faq-item">
@@ -169,7 +169,7 @@
     <div class="answer">
         <p>You can contact AcademeForge at:<br>
             Email: support@academeforge.in<br>
-            Phone: [Insert contact number]
+            Phone: Comming Soon
         </p>
     </div>
 </div>
@@ -200,13 +200,13 @@
 <div class="faq-item">
     <h3>19. How many schools are participating?</h3>
     <div class="answer">
-        <p>Several schools across different regions are participating. (You can write the exact number later when confirmed, e.g., "20+ schools.")</p>
+        <p>Several schools across different regions are participating. Currently we can't share the exact data but will update after round 1</p>
     </div>
 </div>
 <div class="faq-item">
     <h3>20. How many students are participating?</h3>
     <div class="answer">
-        <p>In Round 1, about 1000 students are expected to participate.</p>
+        <p>In Round 1, about 1000+ students are expected to participate.</p>
     </div>
 </div>
 <div class="faq-item">
