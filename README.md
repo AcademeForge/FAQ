@@ -90,9 +90,9 @@
             <div class="answer">
                 <p>There are <strong>three rounds</strong>:  
                     <ul>
-                        <li>Round 1: Screening Test</li>
-                        <li>Round 2: Advanced Test</li>
-                        <li>Round 3: Final Round (Scholarship Round)</li>
+                        <li>➡️ Round 1: Preliminary Round</li>
+                        <li>➡️ Round 2: Advanced Round</li>
+                        <li>➡️ Round 3: Interview Round (Scholarship Round)</li>
                     </ul>
                 </p>
             </div>
