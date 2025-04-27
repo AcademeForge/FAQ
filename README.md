@@ -70,7 +70,7 @@
 </head>
 <body>
 
-    <h1>Frequently Asked Questions (FAQs) - AcademeForge Scholars Test (AST)</h1>
+    <h1>AcademeForge Scholars Test (AST)</h1>
 
     <div class="faq-container">
         <div class="faq-item">
