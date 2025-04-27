@@ -188,7 +188,7 @@
 <div class="faq-item">
     <h3>17. Where is the branch of AcademeForge located?</h3>
     <div class="answer">
-        <p>AcademeForge currently operates mainly online and from its headquarters office in Patna and Begusarai, Bihar, India. Our team works remotely and collaborates digitally.</p>
+        <p>AcademeForge currently operates mainly online and from its headquarters office in Bihar, India. Our team works remotely and collaborates digitally.</p>
     </div>
 </div>
 <div class="faq-item">
@@ -272,7 +272,7 @@
 <div class="faq-item">
     <h3>30. What if someone asks to show the headquarters and we don't have one?</h3>
     <div class="answer">
-        <p>AcademeForge operates entirely online and remotely. Our team works from their homes in Patna and Begusarai, Bihar, India, and we manage all tasks digitally. We do not have a physical office, but we are always available through email and phone. Our work is carried out efficiently through online collaboration, and we work with schools across India to organize and manage the test.</p>
+        <p>AcademeForge operates entirely online and remotely. Our team works from their homes in Bihar, India, and we manage all tasks digitally. We do not have a physical office, but we are always available through email and phone. Our work is carried out efficiently through online collaboration, and we work with schools across India to organize and manage the test.</p>
     </div>
 </div>
 
