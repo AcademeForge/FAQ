@@ -168,7 +168,7 @@
     <h3>14. Who should I contact for support?</h3>
     <div class="answer">
         <p>You can contact AcademeForge at:<br>
-            Email: support@academeforge.in<br>
+            Email:academeforge@gmail.com<br>
             Phone: Comming Soon
         </p>
     </div>
