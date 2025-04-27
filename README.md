@@ -116,7 +116,7 @@
                     <ul>
                         <li><strong>Round 1</strong>: Digital Certificate</li>
                         <li><strong>Round 2</strong>: Printed Certificate + Social Media Recognition</li>
-                        <li><strong>Round 3</strong>: Printed Certificate + Medal + Scholarships up to ₹5000 for top 3 students.</li>
+                        <li><strong>Round 3</strong>: Printed Certificate + Medal + Scholarships up to ₹6000 for top 3 students.</li>
                     </ul>
                 </p>
             </div>
@@ -124,8 +124,8 @@
         <div class="faq-item">
             <h3>6. How many students qualify for each round?</h3>
             <div class="answer">
-                <p>About <strong>450 students</strong> will qualify from Round 1 to Round 2.  
-                   About <strong>45 students</strong> will qualify from Round 2 to Round 3.</p>
+                <p>About <strong>30%-40% students</strong> will qualify from Round 1 to Round 2.  
+                   About <strong>15% students</strong> will qualify from Round 2 to Round 3.</p>
             </div>
         </div>
         <div class="faq-item">
