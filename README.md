@@ -134,7 +134,147 @@
                 <p>The syllabus is based on your current class topics (CBSE/ICSE/State boards) and focuses on logical reasoning, aptitude, and core subject knowledge.</p>
             </div>
         </div>
-        <!-- Add more FAQ items here -->
+        <div class="faq-item">
+    <h3>9. How will I receive the certificates?</h3>
+    <div class="answer">
+        <p>Round 1 certificates will be emailed. Round 2 and Round 3 certificates and medals will be couriered or distributed through the school.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>10. How do I register for AST?</h3>
+    <div class="answer">
+        <p>You can register through your school or directly on the AcademeForge official website [Registration Link].</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>11. What if I miss Round 1?</h3>
+    <div class="answer">
+        <p>Unfortunately, you can only enter Round 2 by qualifying through Round 1. No direct entries are allowed.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>12. Can a student re-appear if they fail in Round 1?</h3>
+    <div class="answer">
+        <p>No, the test is held once per year. You can try again next year.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>13. Will sample papers or mock tests be provided?</h3>
+    <div class="answer">
+        <p>Yes! After registration, students will receive a sample paper and preparation guide by email.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>14. Who should I contact for support?</h3>
+    <div class="answer">
+        <p>You can contact AcademeForge at:<br>
+            Email: support@academeforge.in<br>
+            Phone: [Insert contact number]
+        </p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>15. Who will check the answer sheets?</h3>
+    <div class="answer">
+        <p>Answer sheets will be checked by the official examiners and faculty members associated with AcademeForge.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>16. Where will the answer sheets come from?</h3>
+    <div class="answer">
+        <p>Answer sheets will be printed and distributed by AcademeForge and then collected from the exam centers/schools after the exam.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>17. Where is the branch of AcademeForge located?</h3>
+    <div class="answer">
+        <p>AcademeForge currently operates mainly online and from its headquarters office in Patna and Begusarai, Bihar, India. Our team works remotely and collaborates digitally.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>18. What will students do with the certificates if they have no value?</h3>
+    <div class="answer">
+        <p>Certificates showcase participation and achievement. They help build a student's academic profile, especially for scholarships, competitive exams, and school portfolios.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>19. How many schools are participating?</h3>
+    <div class="answer">
+        <p>Several schools across different regions are participating. (You can write the exact number later when confirmed, e.g., "20+ schools.")</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>20. How many students are participating?</h3>
+    <div class="answer">
+        <p>In Round 1, about 1000 students are expected to participate.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>21. How many students will get a scholarship?</h3>
+    <div class="answer">
+        <p>Top 3 students from the Final Round (Round 3) will receive scholarships.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>22. Who will provide the scholarship?</h3>
+    <div class="answer">
+        <p>The scholarship is provided directly by AcademeForge from its official fund for student development.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>23. From where does AcademeForge get the money to give scholarships?</h3>
+    <div class="answer">
+        <p>AcademeForge uses the registration fees collected, along with its own investment and sponsorships, to fund scholarships and awards.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>24. Is this test fake?</h3>
+    <div class="answer">
+        <p>No, AST is a real, officially organized competition by AcademeForge, aimed at supporting talented students across India. All information is transparent, and updates are shared regularly.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>25. How can we believe that it’s a real test?</h3>
+    <div class="answer">
+        <p>You can trust AST because:<br>
+            - Registered schools are official partners.<br>
+            - Certificates are given.<br>
+            - Real students win real prizes.<br>
+            - Test procedures, answer checking, and result announcements are transparent.<br>
+            - Contact details and grievance redressal are available.
+        </p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>26. Why was the registration fee reduced from ₹50 to ₹10?</h3>
+    <div class="answer">
+        <p>AcademeForge decided to lower the fee to make the competition affordable for all students, especially those from different economic backgrounds. The goal is talent discovery, not profit.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>27. Who are the people behind AcademeForge?</h3>
+    <div class="answer">
+        <p>AcademeForge was founded by a team of passionate educators and entrepreneurs, including Devraj Kumar (Founder & CEO) and Mandeep Boot Jolakiya (Co-Founder & CEO). The team is dedicated to creating opportunities for students across India.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>28. Who is the main person behind AcademeForge?</h3>
+    <div class="answer">
+        <p>The main person behind AcademeForge is Devraj Kumar, who is the Founder & CEO. He oversees the overall strategy and vision for the company.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>29. Who will take responsibility if something goes wrong?</h3>
+    <div class="answer">
+        <p>AcademeForge takes full responsibility for organizing the test and ensuring its fairness. If any issues arise, our grievance redressal system will be in place to address them. The management team, including Devraj Kumar and Mandeep Boot Jolakiya, will handle all concerns and resolve any situations.</p>
+    </div>
+</div>
+<div class="faq-item">
+    <h3>30. What if someone asks to show the headquarters and we don't have one?</h3>
+    <div class="answer">
+        <p>AcademeForge operates entirely online and remotely. Our team works from their homes in Patna and Begusarai, Bihar, India, and we manage all tasks digitally. We do not have a physical office, but we are always available through email and phone. Our work is carried out efficiently through online collaboration, and we work with schools across India to organize and manage the test.</p>
+    </div>
+</div>
 
     </div>
 
