@@ -125,7 +125,7 @@
             <h3>6. How many students qualify for each round?</h3>
             <div class="answer">
                 <p>About <strong>30%-40% students</strong> will qualify from Round 1 to Round 2.  
-                   About <strong>15% students</strong> will qualify from Round 2 to Round 3.</p>
+                   About <strong>10%-20% students</strong> will qualify from Round 2 to Round 3.</p>
             </div>
         </div>
         <div class="faq-item">
