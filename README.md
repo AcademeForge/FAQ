@@ -286,19 +286,6 @@
             });
         });
     </script>
-footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background: #5E60CE; /* Violet blue */
-    color: white;
-    text-align: center;
-    padding: 15px 10px;
-    font-size: 14px;
-    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
-    z-index: 999;
-  }
 
   
 <footer>
