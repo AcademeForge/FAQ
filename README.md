@@ -116,7 +116,7 @@
                     <ul>
                         <li><strong>Round 1</strong>: Digital Certificate</li>
                         <li><strong>Round 2</strong>: Printed Certificate + Social Media Recognition</li>
-                        <li><strong>Round 3</strong>: Printed Certificate + Medal + Scholarships up to ₹6000 for top 3 students.</li>
+                        <li><strong>Round 3</strong>: Printed Certificate + Medal + Scholarship</li>
                     </ul>
                 </p>
             </div>
