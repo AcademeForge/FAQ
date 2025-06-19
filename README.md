@@ -102,9 +102,9 @@
             <div class="answer">
                 <p>
                     <ul>
-                        <li><strong>Round 1</strong>: ₹10</li>
-                        <li><strong>Round 2</strong>: ₹40 (only for those who qualify from Round 1)</li>
-                        <li><strong>Round 3</strong>: Free (for qualifiers from Round 2)</li>
+                        <li><strong>Round 1</strong>: ₹100</li>
+                        <li><strong>Round 2</strong>:Free</li>
+                        <li><strong>Round 3</strong>: Free</li>
                     </ul>
                 </p>
             </div>
@@ -246,7 +246,7 @@
     </div>
 </div>
 <div class="faq-item">
-    <h3>26. Why was the registration fee reduced from ₹50 to ₹10?</h3>
+    <h3>26. Why was the registration fee reduced from ₹200 to ₹100?</h3>
     <div class="answer">
         <p>AcademeForge decided to lower the fee to make the competition affordable for all students, especially those from different economic backgrounds. The goal is talent discovery, not profit.</p>
     </div>
